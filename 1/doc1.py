@@ -12,4 +12,7 @@ df = pd.DataFrame(
     }
 )
 
+print("Tabela com todas as informações")
 print(df)
+print("Colunas específicas")
+print(df["Age"])
