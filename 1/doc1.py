@@ -21,7 +21,7 @@ print(df["Age"])
 
 # You can create a Series from scratch as well:
 #ages1 = pd.Series([32, 45, 98], name="Age1")
-#print(ages1)
+# print(ages1)
 
 # Show the maximum value
 print("The maximum age:")
